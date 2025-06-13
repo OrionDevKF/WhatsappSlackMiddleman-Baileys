@@ -127,11 +127,11 @@ pm2 save
 
 ## Limitaciones Conocidas
 
-- (Añadir aquí cualquier limitación conocida, por ejemplo, tipos de mensajes de WhatsApp no soportados completamente, etc.)
+- No compatible con Whatsapp Business API
 
 ## Cómo Obtener Ayuda
 
-Si encuentras algún problema o tienes alguna pregunta, por favor, abre un [Issue en GitHub](https://github.com/username/whatsapp-slack-middleman/issues) (reemplaza `username/whatsapp-slack-middleman` con la URL real de tu repositorio).
+Si encuentras algún problema o tienes alguna pregunta, por favor, abre un [Issue en GitHub](https://github.com/OrionDevKF/whatsapp-slack-middleman-Baileys/issues).
 
 ## Contribuciones
 
